@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37835
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Thurston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42997#Castes-and-Tribes-of-Southern-IndiaVol.-7-of-7
 gutenberg_issued: '2013-06-21'
 gutenberg_type: Text
 identifiers:
